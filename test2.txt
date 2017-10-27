@@ -3,3 +3,4 @@ chang2 in test2
 chang3 in test2
 chang4 in test2
 chang5 in test2
+chang6 in test2
